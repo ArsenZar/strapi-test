@@ -1,0 +1,18 @@
+{
+    "kind": "collectionType",
+    "collectionName": "materialis",
+    "info": {
+        "singularName": "materiali",
+        "pluralName": "materialis",
+        "displayName": "Матеріали"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "title": {
+            "type": "string"
+        }
+    }
+}

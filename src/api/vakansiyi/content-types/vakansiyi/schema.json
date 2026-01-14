@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vakansiyis",
+  "info": {
+    "singularName": "vakansiyi",
+    "pluralName": "vakansiyis",
+    "displayName": "Вакансії"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}

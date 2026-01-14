@@ -1,0 +1,18 @@
+{
+    "kind": "collectionType",
+    "collectionName": "kontents",
+    "info": {
+        "singularName": "kontent",
+        "pluralName": "kontents",
+        "displayName": "Контент"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "title": {
+            "type": "string"
+        }
+    }
+}
